@@ -1,0 +1,10 @@
+body{
+    font-family: calibri,helvetica,sans-serif;
+    background-color: pink;
+
+}
+
+.container{
+    padding: 50px;
+    background-color: lightblue;
+}
